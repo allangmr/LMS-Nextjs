@@ -1,6 +1,8 @@
 const Sidebar = () => {
   return (
-    <div>sidebar</div>
+    <div className="h-full border-r flex flex-col overflow-y-auto bg-white">
+      sidebar
+    </div>
   )
 }
 
